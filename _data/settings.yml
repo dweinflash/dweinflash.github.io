@@ -30,3 +30,7 @@ pagination:
 # related_posts: 'You may also enjoy:'
 
 post_date_prefix: 'Written on'
+
+hide_post_share: true
+
+hide_related_posts: true
