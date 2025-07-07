@@ -31,6 +31,7 @@ speed and accuracy to best perform object classification.
 
 * Google's EfficientNets are more effective than popular convolutional neural networks (MobileNet, ResNet, Inception-v3) at the Edge.
    * EfficientNets very compact and use _compound scaling_ to achieve high accuracy while minimizing floating point operations.
+ 
    * 
 * More work is necessary to increase the model’s "rock, paper, scissors" generalizability.
    * Nonetheless, EfficientNet models provide a promising solution to delivering machine learning at the Edge.
