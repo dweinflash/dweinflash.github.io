@@ -34,3 +34,9 @@ speed and accuracy to best perform object classification.
 
 * More work is necessary to increase the model’s "rock, paper, scissors" generalizability.
    * Nonetheless, EfficientNet models provide a promising solution to delivering machine learning at the Edge.
+
+## Documents
+
+* [Presentation](/assets/pdf/Cozmo_Presentation.pdf)
+* [Report](/assets/pdf/Cozmo_Report.pdf)
+* [Code](https://github.com/dweinflash?tab=projects)
