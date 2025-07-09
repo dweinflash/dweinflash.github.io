@@ -22,14 +22,15 @@ at UC Santa Barbara to focus on exploring the link between key radio measurement
 
 * Investigate the effect of radio measurements and quality of service (QoS) metrics on quality of experience.
 
-  * Radio Measurement: Reference Signal Received Power (RSRP)
-  * Quality of Service Measurement: Throughput
+  * **Radio Measurement**: Reference Signal Received Power (RSRP)
+  * **Quality of Service Measurement**: Throughput
 
 ## Takeaways
 
 * Random Forest and ARIMA can be used to predict buffer level with high accuracy, precision and recall.
 
-  * Random forest model was especially effective in segmenting network level measurements using both a quantile binning and uniform binning approach. 
+  * Random forest model was especially effective in segmenting network level measurements using both a quantile binning and uniform binning approach.
+    
   * ARIMA able to quickly output accurate predictions on QoE using a linear regression model based on lagged observations.
   
 * Simpler models perform noticeably better than compute-intensive LSTM networks.
