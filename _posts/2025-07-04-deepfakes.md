@@ -4,7 +4,7 @@ title: "Deepfakes"
 author: "David Weinflash"
 categories: journal
 tags: [documentation,sample]
-image: Deepfake.gif
+image: Deepfakes.png
 ---
 
 Just as advances in machine learning gave rise to [deepfake videos](https://en.wikipedia.org/wiki/Deepfake), so too can modern machine 
