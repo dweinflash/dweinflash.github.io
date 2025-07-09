@@ -12,6 +12,8 @@ learning models be put to use to reliably detect fake media content. In this pro
 to generate deepfake videos, then using neural networks to correctly distinguish between fake and unaltered media content. In each scenario, I
 test the system on a range of different videos in order to evaluate the effectiveness of the proposed network.
 
+![alt text](/assets/img/Deepfake.gif "Deepfake Videos")
+
 ## Goals
 
 * Utilize a generative deep neural network to create deepfake videos.
