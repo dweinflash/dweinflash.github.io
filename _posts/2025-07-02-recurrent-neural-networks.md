@@ -41,5 +41,5 @@ evaluated in light of training and test data performance and also via manual ver
 
 ## Documents
 
-* [Presentation](/assets/pdf/RNN_Report.pdf)
+* [Report](/assets/pdf/RNN_Report.pdf)
 * [Code](https://github.com/dweinflash/RNN)
