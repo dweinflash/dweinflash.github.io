@@ -22,8 +22,8 @@ evaluated in light of training and test data performance and also via manual ver
 
 * Train recurrent neural networks to perform different tasks:
 
-  * SimpleRNN - Classify movie reviews as either positive or negative.
-  * PixelRNN - Generate images of handwritten digits.
+  * **SimpleRNN** - Classify movie reviews as either positive or negative.
+  * **PixelRNN** - Generate images of handwritten digits.
 
 ## Takeaways
 
