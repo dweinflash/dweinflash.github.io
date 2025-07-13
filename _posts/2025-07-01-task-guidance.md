@@ -19,7 +19,7 @@ In the following research project, I partnered with the [Four Eyes Lab at UC San
 
 * Develop an augmented reality virtual assistant, or _The AR Cooking Helper_, to provide recipe instruction in the kitchen. 
 
-  * Utilize action recognition, object recognition, textual recommendations, plane tracking and video tutorials to deliver helpful virtual assistance.
+  * Utilize action recognition, object recognition, textual recommendations, plane tracking and video tutorials to deliver virtual assistance.
 
 ## Takeaways
 
