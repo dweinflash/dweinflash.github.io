@@ -11,9 +11,7 @@ The most effective virtual assistants help users perform tasks within and beyond
 
 In the following research project, I partnered with the [Four Eyes Lab at UC Santa Barbara](https://ilab.cs.ucsb.edu/) to investigate the effectiveness of baseline action recognition models in enabling nonintrusive task guidance. Through offline and real-time video analysis, we demonstrate knowledge transfer between assistant and user by way of our augmented reality application, _The AR Cooking Helper_. Using contemporary action recognition models trained on the [EPIC-KITCHENS](https://epic-kitchens.github.io/2021) dataset, we walk a user through a recipe, issuing real-time guidance when necessary to most effectively deliver perceptually-enabled task guidance.
 
-<p style="margin-top: 10px; margin-bottom: 10px;">
-  <img src="/assets/img/ARCookingHelper.png" alt="The AR Cooking Helper" style="display: block; margin: 0 auto;">
-</p>
+<img src="/assets/img/ARCookingHelper.png" alt="The AR Cooking Helper" style="display: block; margin: 0 auto;">
 
 ## Goals
 
