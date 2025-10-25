@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: OnCallAgent_Architecture.png
 ---
 
-This project introduces an On-Call Support Agent built with Slack, Anthropic, RAG and MCP to support engineers during incident response and system troubleshooting. The agent integrates Retrieval-Augmented Generation (RAG) for searching
+This project introduces an On-Call Support Agent built with Slack, Claude Sonnet, RAG and MCP to support engineers during incident response and system design. The agent integrates Retrieval-Augmented Generation (RAG) for searching
 operational runbooks and Model Context Protocol (MCP) for live codebase analysis. By utilizing RAG to retrieve relevant documentation and MCP to explore GitHub repositories, the agent provides context-aware responses
 to accelerate user onboarding and incident resolution.
 
