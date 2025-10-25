@@ -25,7 +25,7 @@ to accelerate user onboarding and incident resolution.
 
 * MCP enables direct integration between LLMs and development tools, allowing the agent to search and analyze GitHub repositories in real-time for code exploration and system understanding.
 
-* Specialized system prompts create purpose-built workflows, with distinct prompts for incident response (/incident) and repository analysis (/code).
+* Slack commands create purpose-built workflows, with distinct commands for incident response (/incident), repository analysis (/code) and private messaging (/ask).
 
 ## Documents
 
