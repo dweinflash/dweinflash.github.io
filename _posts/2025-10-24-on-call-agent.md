@@ -7,25 +7,23 @@ tags: [documentation,sample]
 image: OnCallAgent_Architecture.png
 ---
 
-This project introduces an On-Call Support Agent built with Slack, Claude Sonnet, RAG and MCP to assist engineers with application incident response and system design. The agent integrates Retrieval-Augmented Generation (RAG) for searching
-operational runbooks and Model Context Protocol (MCP) for live codebase analysis. By utilizing RAG to retrieve relevant documentation and MCP to explore GitHub repositories, the agent provides context-aware responses
-to accelerate user onboarding and incident resolution.
+Aiming to bring together the major topics discussed during [Agent Engineering Bootcamp](https://maven.com/agent-lab/agent-engineering-bootcamp), this capstone project introduces an On-Call Support Agent to assist engineers with application support. Built using [Slack](https://slack.com), [Claude Sonnet](https://www.anthropic.com/claude/sonnet), Retreival Augmented Generation (RAG) and Model Context Protocol (MCP), the agent uses operational runbooks and [GitHub](https://github.com) repositories to provide relevant, context-aware responses to help engineers quickly resolve incidents and better understand the overall design of the system.
 
 ## Goals
 
-* Accelerate incident resolution by providing on-call engineers with targetted resolution steps.
+* Accelerate incident response by providing on-call engineers with targeted resolution steps.
 
-* Enable self-service code exploration, allowing engineers to query system architecture and implementation details through GitHub repository analysis.
+* Answer system architecture and implementation detail questions by analyzing GitHub repositories.
 
-* Help onboard new engineers by providing an interactive assistant that answers questions about both operational procedures and technical details.
+* Help onboard new engineers with an assistant that answers questions about the operational and technical details of an application.
 
 ## Takeaways
 
-* RAG transforms static documentation into actionable knowledge by embedding markdown runbooks into a vector database, allowing for relevant and targeted responses.
+* RAG transforms static documentation into actionable knowledge, giving the agent a solid foundation for relevant and accurate responses.
 
-* MCP enables direct integration between LLMs and development tools, allowing the agent to search and analyze GitHub repositories in real-time for code exploration and system understanding.
+* MCP enables direct integration between Claude Sonnet and GitHub, allowing the agent to search and analyze the codebase in real-time for code exploration and system understanding.
 
-* Slack commands create purpose-built workflows, with distinct commands for incident response (/incident), repository analysis (/code) and private messaging (/ask).
+* Slack commands helped to create purpose-built workflows, with distinct commands for incident response, repository analysis and private messaging.
 
 ## Documents
 
