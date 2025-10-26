@@ -19,7 +19,7 @@ Aiming to bring together the major topics discussed during [Agent Engineering Bo
 
 ## Takeaways
 
-* Retrieval Augemented Generation (RAG) transforms static documentation into actionable knowledge, giving the agent a solid foundation for relevant and accurate responses.
+* Retrieval-Augmented Generation (RAG) transforms static documentation into actionable knowledge, giving the agent a solid foundation for relevant and accurate responses.
 
 * Model Context Protocol (MCP) enables direct integration between Claude Sonnet and GitHub, allowing the agent to search and analyze the codebase in real-time for code exploration and system understanding.
 
