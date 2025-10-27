@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: OnCallAgent_Architecture.png
 ---
 
-Aiming to bring together the major topics discussed during [Agent Engineering Bootcamp](https://maven.com/agent-lab/agent-engineering-bootcamp), this capstone project introduces an On-Call Support Agent to assist engineers with application support. Built using [Slack](https://slack.com), [Claude Sonnet](https://www.anthropic.com/claude/sonnet), [LangChain](https://www.langchain.com/), [OpenAI](https://openai.com/api/) and [Chroma](https://www.trychroma.com/), the agent uses operational runbooks and [GitHub](https://github.com) repositories to provide relevant, context-aware responses to help engineers quickly resolve incidents and better understand the overall design of the system.
+This capstone proect from [Agent Engineering Bootcamp](https://maven.com/agent-lab/agent-engineering-bootcamp) introduces an On-Call Support Agent to assist engineers with application maintenance and operational support. Built using [Slack](https://slack.com), [Claude Sonnet](https://www.anthropic.com/claude/sonnet), [LangChain](https://www.langchain.com/), [OpenAI](https://openai.com/api/) and [Chroma](https://www.trychroma.com/), the agent uses operational runbooks and [GitHub](https://github.com) repositories to provide relevant, context-aware responses to help engineers quickly resolve incidents and better understand the technical details of the application.
 
 ## Goals
 
