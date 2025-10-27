@@ -21,7 +21,7 @@ This capstone project from [Agent Engineering Bootcamp](https://maven.com/agent-
 
 * Retrieval-Augmented Generation (RAG) with operational runbooks gives the agent a solid foundation for relevant and accurate responses.
 
-* The GitHub Model Context Protocol (MCP) server allows the agent to search and analyze the codebase in real-time to answer system design questions.
+* The GitHub Model Context Protocol (MCP) server allows the agent to search and analyze a codebase in real-time to answer system design questions.
 
 * Slack commands helped to create purpose-built workflows, with distinct commands for incident response, repository analysis and private messaging.
 
