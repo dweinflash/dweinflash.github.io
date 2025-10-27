@@ -13,15 +13,15 @@ This capstone project from [Agent Engineering Bootcamp](https://maven.com/agent-
 
 * Accelerate incident response by providing on-call engineers with targeted resolution steps.
 
-* Answer system architecture and implementation detail questions by analyzing GitHub repositories.
+* Answer system architecture questions by analyzing GitHub repositories.
 
 * Help onboard new engineers with an assistant that answers questions about the operational and technical details of an application.
 
 ## Takeaways
 
-* Retrieval-Augmented Generation (RAG) transforms operational runbooks into actionable knowledge, giving the agent a solid foundation for relevant and accurate responses.
+* Retrieval-Augmented Generation (RAG) with operational runbooks gives the agent a solid foundation for relevant and accurate responses.
 
-* Model Context Protocol (MCP) enables direct integration between Claude Sonnet and GitHub, allowing the agent to search and analyze the codebase in real-time for code exploration and system understanding.
+* The GitHub Model Context Protocol (MCP) server allows the agent to search and analyze the codebase in real-time to answer any system design questions.
 
 * Slack commands helped to create purpose-built workflows, with distinct commands for incident response, repository analysis and private messaging.
 
